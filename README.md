@@ -16,7 +16,11 @@
 
 I'm fascinated with mountains. Its like challenge that I need to pass. That I need to climb until I get on the peak.
 
-About my experience. I've worked with Java, PHP, and Python to create solutions. I am especially skilled in the Python programming language. I've built web systems utilizing PHP and Python, primarily the Flask framework. I have experience creating software ranging from desktop application to web application.  I've written automated test scripts and performed manual regression testing using the Cypress framework. I am well-versed in the use of Git and had experience of using cloud repository such as GitHub and GitLab. Together with my team in thesis, we competed in the DICT's Philippine Start-up Competition 2021 Student Edition  Regional Level.
+About my experience. I've worked with Java, PHP, and Python to create solutions. I am especially skilled in the Python programming language. I've built web systems utilizing PHP and Python, primarily the Flask framework. I have experience creating software ranging from desktop application to web application. I am well-versed in the use of Git and had experience of using cloud repository such as GitHub and GitLab. Together with my team in thesis, we competed in the DICT's Philippine Start-up Competition 2021 Student Edition  Regional Level.
+
+My tech stack:
+- For Desktop Application: PyQt5, PyQt6 or PySide6 (Qt Based)
+- For Web Application: HTML, CSS, JS, Bootstrap, Python Flask, Python Django, or PHP
 
 
 Visit me on https://reyniel26.github.io/
