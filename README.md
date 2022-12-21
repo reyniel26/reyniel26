@@ -25,3 +25,7 @@ My tech stack:
 
 Visit me on https://reyniel26.github.io/
 
+ 
+Number of visits: <br>
+![Visitor Count](https://profile-counter.glitch.me/reyniel26/count.svg)
+
