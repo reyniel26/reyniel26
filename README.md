@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on various of project that uses `Python` as main programming languages
 - 🤔 I’m looking for help with [`Bleepy`](https://github.com/reyniel26/bleepy) and I'm open for any suggestions and recommendation to improve this project
 - 💬 Ask me about `Python`, One Punch Man, Mob Pyscho 100, and Golden Kamuy. 
-- 📫 How to reach me: @ [Linkedin](https://www.linkedin.com/in/rmescamillas/)
+- 📫 How to reach me: @ [Linkedin](https://www.linkedin.com/in/rmescamillas/), [Sololearn](https://www.sololearn.com/Profile/10677388/?ref=app)
 - ⚡ Fun fact: I'm not good at `Python` at first thats is why I'm constantly improving my self in using Python
 
 ### About Me
