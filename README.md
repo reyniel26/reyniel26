@@ -14,13 +14,11 @@
 
 ### About Me
 
-I'm fascinated with mountains. Its like challenge that I need to pass. That I need to climb until I get on the peak.
+I am a dedicated and driven individual with a passion for learning and a deep-seated grit. With a wealth of certifications under my belt, I have honed my skills in various programming languages, including Java, PHP, C++, and Python. My particular expertise lies in Python, which I have leveraged to create a diverse range of solutions, from desktop applications to web applications.
 
-About my experience, I've worked with Java, PHP, C++, and Python to create solutions. I am especially skilled in the Python programming language. Built web systems utilizing PHP and Python, Experienced in creating software ranging from desktop application to web application. Well-versed in the use of Git and had experience of using cloud repository such as GitHub and Gitlab.Always seeking opportunity not only to have strong knowledge and experience by taking up more challenging roles but also to contribute in various solutions.
+My tech stack includes PyQt5, PyQt6 or PySide6 for desktop applications, and HTML, CSS, JS, Bootstrap, Python Flask, Python Django, or PHP for web applications. I am also experienced in utilizing Git and cloud repositories such as GitHub and Gitlab.
 
-My tech stack:
-- For Desktop Application: PyQt5, PyQt6 or PySide6 (Qt Based)
-- For Web Application: HTML, CSS, JS, Bootstrap, Python Flask, Python Django, or PHP
+My fascination with mountains serves as a metaphor for the challenges I face in the tech industry, and I am always seeking opportunities to grow my knowledge and contribute to innovative solutions. With my grit and love for learning, I am confident in my ability to tackle any obstacle that comes my way.
 
 
 Visit me on https://reyniel26.github.io/
