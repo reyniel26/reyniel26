@@ -2,8 +2,6 @@
 
 ### Hi there 👋
 
-
-
 - 🔭 I’m currently working on [`Bleepy`](https://github.com/reyniel26/bleepy), a Tagalog and English Profanity Blocker
 - 🌱 I’m currently learning about `Python Packages` 
 - 👯 I’m looking to collaborate on various of project that uses `Python` as main programming languages
@@ -23,13 +21,23 @@ My fascination with mountains serves as a metaphor for the challenges I face in 
 
 Visit me on https://reyniel26.github.io/
 
-<p align="center">
- 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=reyniel26)](https://git.io/streak-stats)
- 
-</p>
 
+### My Statistics
+
+<div align="center">
  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reyniel26)
+
+ </div>
+
+<div align="center">
+ 
+![GitHub Streak](https://streak-stats.demolab.com/?user=reyniel26)
+ 
+</div>
+
+<hr>
+
 Number of visits: <br>
 ![Visitor Count](https://profile-counter.glitch.me/reyniel26/count.svg)
 
