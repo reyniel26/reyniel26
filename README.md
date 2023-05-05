@@ -23,6 +23,12 @@ My fascination with mountains serves as a metaphor for the challenges I face in 
 
 Visit me on https://reyniel26.github.io/
 
+<p align="center">
+ 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=reyniel26)](https://git.io/streak-stats)
+ 
+</p>
+
  
 Number of visits: <br>
 ![Visitor Count](https://profile-counter.glitch.me/reyniel26/count.svg)
