@@ -1,4 +1,5 @@
-![Banner](https://user-images.githubusercontent.com/58727783/204416496-b85c0f2d-d05a-44d8-a7fe-af8b396c2c05.png)
+![Reyniel Bleepy Linkedin](https://github.com/reyniel26/reyniel26/assets/58727783/a8e1ff6e-2882-4ca1-af9e-78a2ed68f3f0)
+
 
 ### Hi there 👋
 
@@ -16,10 +17,15 @@ I am a dedicated and driven individual with a passion for learning and a deep-se
 
 My tech stack includes PyQt5, PyQt6 or PySide6 for desktop applications, and HTML, CSS, JS, Bootstrap, Python Flask, Python Django, or PHP for web applications. I am also experienced in utilizing Git and cloud repositories such as GitHub and Gitlab.
 
-My fascination with mountains serves as a metaphor for the challenges I face in the tech industry, and I am always seeking opportunities to grow my knowledge and contribute to innovative solutions. With my grit and love for learning, I am confident in my ability to tackle any obstacle that comes my way.
+As a Python Developer and Data Engineer, I specialize in leveraging Python to develop robust applications and analyze data effectively. My fascination with mountains serves as a metaphor for the challenges I face in the tech industry, and I am always seeking opportunities to grow my knowledge and contribute to innovative solutions. With my grit and love for learning, I am confident in my ability to tackle any obstacle that comes my way.
 
+Visit me on [my website](https://reyniel26.github.io/).
 
-Visit me on https://reyniel26.github.io/
+### Services
+
+- **Fiverr**: [reyniel_bleepy](https://www.fiverr.com/reyniel_bleepy)
+- **Upwork**: [reynielmarke](https://www.upwork.com/workwith/reynielmarke)
+
 
 
 ### My Statistics
