@@ -23,8 +23,11 @@ Visit me on [my website](https://reyniel26.github.io/).
 
 ### Services
 
+![Fiverr Gigs Advertisement Debug](https://github.com/reyniel26/reyniel26/assets/58727783/6ba37631-7a50-48a7-9ffc-af958be12005)
+
+
 - **Fiverr**: [reyniel_bleepy](https://www.fiverr.com/reyniel_bleepy)
-- **Upwork**: [reynielmarke](https://www.upwork.com/workwith/reynielmarke)
+- **Upwork**: [Reyniel Mark E.](https://www.upwork.com/freelancers/~017f696e338efc2e2b?mp_source=share)
 
 
 
